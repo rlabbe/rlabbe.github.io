@@ -1305,7 +1305,7 @@ html .gist .gist-file .gist-syntax {
     background: none !important
 }
 html .gist .gist-file .gist-syntax .gist-highlight {
-    background: #F1F1E4 !important
+    background: #C0C0C0 !important
 }
 html .gist .gist-file .gist-meta {
     padding: .6em 0.8em;
@@ -1339,7 +1339,7 @@ html .gist .gist-file .gist-meta a[href*=raw] {
     top: .4em
 }
 pre {
-    background: #F1F1E4 url('../images/noise.png?1352591720') top left;
+    background: #C0C0C0 url('../images/noise.png?1352591720') top left;
     -webkit-border-radius: 0.4em;
     -moz-border-radius: 0.4em;
     -ms-border-radius: 0.4em;
@@ -1398,7 +1398,7 @@ html .gist .gist-file .gist-syntax .gist-highlight pre,
     padding: .8em !important;
     overflow-x: auto;
     line-height: 1.45em;
-    background: #F1F1E4 url('../images/noise.png?1352591720') top left !important;
+    background: #C0C0C0 url('../images/noise.png?1352591720') top left !important;
     color: #93a1a1 !important
 }
 .pre-code *::-moz-selection,
@@ -1408,7 +1408,7 @@ html .gist .gist-file .gist-syntax .gist-highlight pre *::-moz-selection,
 .highlight code *::-moz-selection {
     background: #386774;
     color: inherit;
-    text-shadow: #F1F1E4 0 1px
+    text-shadow: #C0C0C0 0 1px
 }
 .pre-code *::-webkit-selection,
 html .gist .gist-file .gist-syntax .gist-highlight pre *::-webkit-selection,
@@ -1417,7 +1417,7 @@ html .gist .gist-file .gist-syntax .gist-highlight pre *::-webkit-selection,
 .highlight code *::-webkit-selection {
     background: #386774;
     color: inherit;
-    text-shadow: #F1F1E4 0 1px
+    text-shadow: #C0C0C0 0 1px
 }
 .pre-code *::selection,
 html .gist .gist-file .gist-syntax .gist-highlight pre *::selection,
@@ -1426,7 +1426,7 @@ html .gist .gist-file .gist-syntax .gist-highlight pre *::selection,
 .highlight code *::selection {
     background: #386774;
     color: inherit;
-    text-shadow: #F1F1E4 0 1px
+    text-shadow: #C0C0C0 0 1px
 }
 .pre-code span,
 html .gist .gist-file .gist-syntax .gist-highlight pre span,
@@ -1830,7 +1830,7 @@ html .gist .gist-file .gist-syntax .gist-highlight pre div .gi .x,
 .highlight,
 .gist-highlight {
     margin-bottom: 1.8em;
-    background: #F1F1E4;
+    background: #C0C0C0;
     overflow-y: hidden;
     overflow-x: auto
 }
